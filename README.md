@@ -33,8 +33,8 @@
 
 <p align="center">
   <a href="https://github.com/zobedd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zobedd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobedd&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
@@ -43,5 +43,21 @@
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://linkedin.com/in/leirbage" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
+
+---
+
+### 🙋‍♂️ Visualizações
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=blue" alt="Contador de Visitas" />
+</p>
+
+---
+
+<h3 align="center">
+  <a href="https://github.com/seu-usuario">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Cibersegurança;Bioinformática;Desenvolvimento+Web" alt="Typing SVG" />
+  </a>
+</h3>
