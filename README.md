@@ -33,8 +33,8 @@
 
 <p align="center">
   <a href="https://github.com/zobedd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zobedd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobedd&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
@@ -43,5 +43,5 @@
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/leirbage" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
