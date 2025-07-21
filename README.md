@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pinterest.com%2Fsimplysydneyrenee%2Fcozy-gifs%2F&psig=AOvVaw0h-8nsZ5uUGGcoEc91BkOe&ust=1753213511267000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDs3sXbzo4DFQAAAAAdAAAAABAE" width="400" />
+  <img src="[https://www.pinterest.com%2Fsimplysydneyrenee%2Fcozy-gifs%2F&psig=AOvVaw0h-8nsZ5uUGGcoEc91BkOe&ust=1753213511267000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDs3sXbzo4DFQAAAAAdAAAAABAE](https://i.pinimg.com/originals/bb/51/e4/bb51e408f9a7c83801683149773ca69c.gif)" width="400" />
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou o Enzo!</h1>
