@@ -1,63 +1,54 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI1b2V5anQ2ZzQzNmh4bjhoYTV3a3l3cm82OW1xMWc1ajJ0Z25zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFgnS3LgGg6Vp2Hh3T/giphy.gif" width="150" />
+</div>
+
+<h1 align="center">hey there, what's up? 👋</h1>
+
 <p align="center">
-  <img src="[https://www.pinterest.com%2Fsimplysydneyrenee%2Fcozy-gifs%2F&psig=AOvVaw0h-8nsZ5uUGGcoEc91BkOe&ust=1753213511267000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDs3sXbzo4DFQAAAAAdAAAAABAE](https://i.pinimg.com/originals/bb/51/e4/bb51e408f9a7c83801683149773ca69c.gif)" width="400" />
-</p>
-
-<h1 align="center">Olá! 👋 Eu sou o Enzo!</h1>
-
-<h3 align="center">Um entusiasta de tecnologia explorando o universo da Cibersegurança e da Bioinformática.</h3>
-
----
-
-### 🌱 Sobre Mim
-
-- 🎓 Atualmente no 6º semestre de **Ciência da Computação**.
-- 💻 Focado em aprender os fundamentos de **Cibersegurança** para me tornar um profissional de defesa digital.
-- 🧬 Fascinado pelo potencial da **Bioinformática**.
-- 🌐 Apaixonado por **idiomas**, **culturas** e **viagens**.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  Welcome to my digital space. It’s a mix of clean code, smart design, and good vibes.
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### About Me
+
+- 💻 I build stuff that matters. Currently focused on **React**, **Node.js**, and a little bit of **Figma**.
+- 🚀 Always chasing the next big thing in tech, but keeping it real.
+- ⚡️ My mantra: **Simplicity is the ultimate sophistication.**
+- 💡 Learning something new every single day. The grind is real.
+- 🎧 When not coding, you can find me listening to lo-fi beats or exploring new coffee shops.
+
+---
+
+### My Stacks
+
+---
+
+### Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zobedd&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobedd&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+---
+
+### Let's Connect
 
 <p align="center">
-  <a href="https://github.com/zobedd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zobedd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobedd&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://www.linkedin.com/in/leirbage">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/y2kcatis">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/leirbag__e">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📫 Como me encontrar
-
-<p align="left">
-  <a href="https://linkedin.com/in/leirbage" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </p>
-
----
-
-### 🙋‍♂️ Visualizações
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zobedd&style=flat-square&color=blue" alt="Contador de Visitas" />
+  Made with ❤️ and a lot of coffee.
 </p>
-
----
-
-<h3 align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Seja+Bem+Vindo!;Explore!" alt="Typing SVG" />
-  </a>
-</h3>
