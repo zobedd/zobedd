@@ -40,7 +40,7 @@
 &lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&amp;theme=dark&quot; alt=&quot;GitHub Profile Details&quot; /&gt;
+  &lt;img src=&quot;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zobedd&amp;theme=dark&quot; alt=&quot;GitHub Profile Details&quot; /&gt;
 &lt;/div&gt;
 
 -----
