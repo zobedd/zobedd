@@ -48,13 +48,13 @@
 ### Onde a adrenalina me leva
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;a href=&quot;https://www.linkedin.com/in/SEU_LINKEDIN_AQUI&quot;&gt;
+  &lt;a href=&quot;https://www.linkedin.com/in/leirbage&quot;&gt;
     &lt;img src=&quot;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot; /&gt;
   &lt;/a&gt;
-  &lt;a href=&quot;https://twitter.com/SEU_TWITTER_AQUI&quot;&gt;
+  &lt;a href=&quot;https://twitter.com/y2kcatis&quot;&gt;
     &lt;img src=&quot;https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&quot; alt=&quot;Twitter&quot; /&gt;
   &lt;/a&gt;
-  &lt;a href=&quot;https://github.com/SEU_USUARIO&quot;&gt;
+  &lt;a href=&quot;https://github.com/zobedd&quot;&gt;
     &lt;img src=&quot;https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;GitHub&quot; /&gt;
   &lt;/a&gt;
 &lt;/p&gt;
