@@ -1,66 +1,98 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s5NHp5dm11MnF6ejNvbHFwY25jZGVzY2JqMmN3ZW56M3l0aW9uYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaHpl8rJ6aQ/giphy.gif" alt="Biker Vibe GIF" width="250" />
+<!--
+    Hey there, I'm Daria Stanilevici!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @daria-stanilevici :))
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+</a>
+
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
+
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
 </div>
 
-<h1 align="center">don't mess with my code.</h1>
+<!--
+     My mission, because I'm a superhero!
+-->
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
-<p align="center">
-  Dominando o teclado, quebrando regras e construindo o futuro.
-</p>
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
----
+<!--
+     I also have my own blog with useful information, check it out ^^
+-->
 
-### Acelerando
+### Publications
+<div> 
+  <a href="https://medium.com/@daria-stanilevici">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+  </a>
+  <a href="https://dev.to/daria-stanilevici">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
+  </a>
+</div>
 
-- ⚙️ No motor, rodam **C++**, **Python** e **Go**. Minha especialidade é otimizar cada linha de código até a velocidade máxima.
-- 🚧 A vida é um jogo de alto risco. No meu playground digital, estou sempre em busca do próximo bug para esmagar.
-- 🔥 O erro não é uma falha, é um desafio. E eu gosto de desafios.
-- 🕹️ Quando o código não me satisfaz, troco as engrenagens por um controle e entro no modo **hardcore**.
+You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
+I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
 
----
+<!--
+Check out my latest post 👇  
 
-### O Meu Arsenal
-
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<a href="https://medium.com/@daria-stanilevici" target="_blank">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
+</a>
 
 
------
+[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
 
-### Último Jogo Salvo
 
-&lt;p&gt;
-  A vida de um guerreiro digital.
-&lt;/p&gt;
+     Fast links to my socials!
+-->
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zobedd&amp;theme=dark&quot; alt=&quot;GitHub Profile Details&quot; /&gt;
-&lt;/div&gt;
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://dev.to/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    </a>
+    <a href="https://www.credly.com/users/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+    </a>
+    <a href="https://www.artstation.com/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
+    </a>
+    <a href="https://medium.com/@daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    </a>
+</div>
 
------
+<!--
+     Oh, hello there, recruiters!
+-->
 
-### Onde a adrenalina me leva
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;a href=&quot;https://www.linkedin.com/in/leirbage&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot; /&gt;
-  &lt;/a&gt;
-  &lt;a href=&quot;https://twitter.com/y2kcatis&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&quot; alt=&quot;Twitter&quot; /&gt;
-  &lt;/a&gt;
-  &lt;a href=&quot;https://github.com/zobedd&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;GitHub&quot; /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
------
-
-&lt;p align=&quot;center&quot;&gt;
-  Feito com 😈 e muito octane.
-&lt;/p&gt;
+<!--
+     Thanks for being my guest <3
+-->
